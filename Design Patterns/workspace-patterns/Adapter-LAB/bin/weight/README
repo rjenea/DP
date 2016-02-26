@@ -1,0 +1,15 @@
+--------
+Question
+--------
+
+A Person has weight in stone.
+Scales display a Persons weight.
+Build an adapter for the scales which displays the persons weight in pounds.
+
+------
+Extend
+------
+
+Build another adapter which displays the person weight in kilos.
+
+=> WeightAdapter is the only interface needed!

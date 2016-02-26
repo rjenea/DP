@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;dzone&apos; to &apos;visitor&apos;&#x0D;&#x0A;- Original project: &apos;Pattern-Visitor&apos;&#x0D;&#x0A;- Original element: &apos;Pattern-Visitor/src/dzone&apos;&#x0D;&#x0A;- Renamed element: &apos;Pattern-Visitor/src/visitor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;dzone&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;dzone" name="visitor" qualified="false" references="true" stamp="1433927114378" textual="false" version="1.0"/>
+</session>

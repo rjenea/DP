@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 4 elements to &apos;Template/src/template&apos;&#x0D;&#x0A;- Original project: &apos;Template&apos;&#x0D;&#x0A;- Destination element: &apos;Template/src/template&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     DataParser.java&#x0D;&#x0A;     DBDataParser.java&#x0D;&#x0A;     TestParser.java&#x0D;&#x0A;     CSVParser.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;template" element1="/src&lt;{DataParser.java" element2="/src&lt;{DBDataParser.java" element3="/src&lt;{TestParser.java" element4="/src&lt;{CSVParser.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1433939291966" units="4" version="1.0"/>
+</session>

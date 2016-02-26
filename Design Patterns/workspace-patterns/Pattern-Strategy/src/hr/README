@@ -1,0 +1,5 @@
+--------
+Question
+--------
+
+Extend by adding a RetireBehaviour to the Employee class, with a retire() method.

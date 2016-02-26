@@ -1,0 +1,32 @@
+--------------
+Build Together
+--------------
+
+1.  Write a Command interface, see Command.
+2.  Build a class with concrete actions/methods, see Curtain.
+3.  Create a receiver, see OpenCurtain.
+4.  Set an invoker, see RemoteControl.
+5.  Write a main client, see Main.
+
+--------
+Question
+--------
+
+Add a Television class with concrete on/off/change channel functionality.
+Create a receiver.
+Add the command to the RemoteControl.
+Invoke the command from Main.
+
+------
+Extend
+------
+
+Command Patterns makes it easier to reverse actions.
+
+=> Add an undo() to the command interface.  Alter the Television to have 3 channels, store the last channel and allow the invoker to:
+
+remoteControl.setCommand(0, televisionChannel3, curtainClose);
+
+, then call undo() and reverse these actions.
+
+See RemoteControl2, Television and Television command classes.

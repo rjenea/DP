@@ -1,0 +1,51 @@
+1453039704611	Rename package 'com.training.builder'
+1453039758040	Rename package 'builder'
+1453039988496	Rename package 'bloch.builder'
+1453040002675	Rename package 'bloch.builder.telescopingconstructor'
+1453040014676	Rename package 'bloch.builder.javabeans'
+1453044168643	Rename package 'factorymethod.eckel'
+1453044629200	Delete element
+1453044632319	Delete element
+1453044637271	Delete element
+1453045555698	Move type 'WhatIUse2' to new file
+1453045572108	Move type 'WhatIHave2' to new file
+1453045580621	Move type 'WhatIUse' to new file
+1453045634218	Move type 'Abstraction' to new file
+1453045651246	Move type 'Implementation2' to new file
+1453045659911	Move type 'Implementation1' to new file
+1453045696521	Move type 'ClientService1' to new file
+1453045704111	Move type 'ClientService2' to new file
+1453045710758	Move type 'Implementation' to new file
+1453045718466	Move type 'Library1' to new file
+1453045724749	Move type 'Library2' to new file
+1453045795267	Move type 'Component' to new file
+1453045815145	Move type 'Leaf' to new file
+1453045822646	Move type 'Node' to new file
+1453045881017	Move type 'ConnectionImplementation' to new file
+1453045905791	Move type 'ConnectionPool' to new file
+1453045918299	Move type 'Connection' to new file
+1453045997505	Move type 'Implementation' to new file
+1453046004867	Move type 'Proxy' to new file
+1453046010232	Move type 'ProxyBase' to new file
+1453046154388	Move type 'Singleton' to new file
+1453046212512	Move type 'ConnectionPool' to new file
+1453046218818	Move type 'ConnectionImplementation' to new file
+1453046226323	Move type 'Connection' to new file
+1453046408670	Move type 'DataPoint' to new file
+1453046439647	Move type 'ExternalizedData' to new file
+1453046451254	Move type 'FlyPoint' to new file
+1453048066846	Move type 'LineData' to new file
+1453048079084	Move type 'LeastSquares' to new file
+1453048103267	Move type 'MinimaFinder' to new file
+1453048108470	Move type 'ConjugateGradient' to new file
+1453048113295	Move type 'Bisection' to new file
+1453048117635	Move type 'NewtonsMethod' to new file
+1453048121869	Move type 'Strategy' to new file
+1453048251897	Move type 'FlowerGenerator' to new file
+1453048258375	Move type 'Bee' to new file
+1453048267132	Move type 'StringVal' to new file
+1453048273743	Move type 'Chrysanthemum' to new file
+1453048293035	Move type 'Runuculus' to new file
+1453048297167	Move type 'Gladiolus' to new file
+1453048301332	Move type 'Flower' to new file
+1453048307951	Move type 'Visitor' to new file

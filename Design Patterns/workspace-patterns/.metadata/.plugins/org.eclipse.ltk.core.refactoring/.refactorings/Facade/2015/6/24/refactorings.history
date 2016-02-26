@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;CreateDialogWithoutFacade.java&apos; to &apos;Facade/src/no_facade&apos;&#x0D;&#x0A;- Original project: &apos;Facade&apos;&#x0D;&#x0A;- Destination element: &apos;Facade/src/no_facade&apos;&#x0D;&#x0A;- Original element: &apos;CreateDialogWithoutFacade.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;no_facade" element1="/src&lt;{CreateDialogWithoutFacade.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1433939316456" units="1" version="1.0"/>
+</session>

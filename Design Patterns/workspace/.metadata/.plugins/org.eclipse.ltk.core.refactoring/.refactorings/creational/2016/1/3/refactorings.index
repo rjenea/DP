@@ -1,0 +1,35 @@
+1453120540047	Move packages
+1453120598123	Move package
+1453120612400	Move package
+1453120619825	Move package
+1453120627481	Move packages
+1453120631014	Move packages
+1453120658122	Move package
+1453120688148	Copy packages
+1453120703678	Move package
+1453120710680	Move packages
+1453120717336	Move package
+1453120720508	Move package
+1453120725393	Move package
+1453121672690	Move type 'Shape' to new file
+1453121680254	Move type 'ShapeFactory' to new file
+1453121687076	Move type 'Circle' to new file
+1453121694804	Move type 'Square' to new file
+1453121787221	Move type 'GameEnvironment' to new file
+1453121793853	Move type 'KillAndDismember' to new file
+1453121805714	Move type 'KittiesAndPuzzles' to new file
+1453121813751	Move type 'GameElementFactory' to new file
+1453121818730	Move type 'NastyWeapon' to new file
+1453121823139	Move type 'Puzzle' to new file
+1453121829200	Move type 'KungFuGuy' to new file
+1453121834023	Move type 'Kitty' to new file
+1453121837952	Move type 'Player' to new file
+1453121841984	Move type 'Obstacle' to new file
+1453237453075	Rename package 'factory.abstractfactory.example'
+1453237510021	Rename type 'Games'
+1453237576045	Rename type 'BuildMediaTest'
+1453238278535	Rename type 'AppTest'
+1453238295051	Rename type 'HeroTest'
+1453238692007	Delete element
+1453238695516	Delete element
+1453238698435	Delete element
